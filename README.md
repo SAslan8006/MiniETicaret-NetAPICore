@@ -7,6 +7,7 @@
 2. Entity Framework Core is used. 
 3. Net Core Web Api project was built as. 
 4. We export the services we wrote in this layer as api.
+5. The project will develop with new technologies
 
 
 ### :open_file_folder: ** Layers| Related Folders**
