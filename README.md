@@ -27,20 +27,26 @@
 7. Fluent Validation support for Validation, Autofac support for IoC added.
 8. The project includes CRUD operations added .
 9. Entity Framework Core Tracking Performance Optimization
-10.Developing the Azure File and Image Upload Mechanism
-11.SEO-Compatible Correction of File Names
-12.Recording Files with the Table Per Hierarchy Approach
-13.Disposal of Storage Infrastructure for Azure File Management
-14.CQRS ve Mediator Pattern 
-15.Authentication and JWT Configuration infrastructure
-16.Google and Facebook Login
-17.JWT Expiration Setting and Refresh Token
-18.Logging with Serilog and Visualization with Seq
-19.Global Exception Handler
-20.Architecturally SignalR Infrastructure
-21.Shopping Cart Infrastructure Development
-22.Mail Service infrastructure
-23.Updating User Password with Reset Password
+10. Developing the Azure File and Image Upload Mechanism
+11. SEO-Compatible Correction of File Names
+12. Recording Files with the Table Per Hierarchy Approach
+13. Disposal of Storage Infrastructure for Azure File Management
+14. CQRS ve Mediator Pattern 
+15. Authentication and JWT Configuration infrastructure
+16. Google and Facebook Login
+17. JWT Expiration Setting and Refresh Token
+18. Logging with Serilog and Visualization with Seq
+19. Global Exception Handler
+20. Architecturally SignalR Infrastructure
+21. Shopping Cart Infrastructure Development
+22. Mail Service infrastructure
+23. Updating User Password with Reset Password
 
 
 ### :floppy_disk: **Application Pictures**
+![image](https://user-images.githubusercontent.com/109723263/196954668-1e57c154-f0c0-4081-86ba-dc0e11a4fc2a.png)
+![image](https://user-images.githubusercontent.com/109723263/196954689-211fbb26-eb84-46d0-b823-24e2a3427c6f.png)
+![image](https://user-images.githubusercontent.com/109723263/196954712-4d216456-5d89-488a-944b-b3ed62e6c509.png)
+
+
+
