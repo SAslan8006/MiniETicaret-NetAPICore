@@ -39,7 +39,7 @@
 18. Logging with Serilog and Visualization with Seq
 19. Global Exception Handler
 20. Architecturally SignalR Infrastructure
-21. Shopping Cart Infrastructure Development
+21. Shopping Cart Infrastructure Development And Mail Send
 22. Mail Service infrastructure
 23. Updating User Password with Reset Password
 
